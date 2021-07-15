@@ -8,7 +8,7 @@ export default function DayListItem(props) {
     "day-list__item--full": props.spots === 0,
   });
   return (
-    <li className={listClasses} onClick={() => props.setDay(props.name)}>
+    <li className={listClasses} onClick={() => props.setDay(props.name)} data-testid="day">
       <h2 className="text--regular">{props.name}</h2>
       {props.spots > 1 ? (
         <h3 className="text--light">{props.spots} spots remaining</h3>
