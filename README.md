@@ -16,6 +16,32 @@ This is a react app which users can book, edit and cancel interviews. Data is re
 ###### Confirmation component when deleting an interview
 !["Confirmation component when deleting an interview"](https://github.com/htkim94/schedular/blob/master/docs/scheduler_confirmation_component.jpg)
 
+## Dependencies
+
+- Axios
+- Classnames
+- Cypress
+- Normalize.css
+- React
+- React-dom
+- React-scripts
+
+## Dev-dependencies
+
+- @babel/core
+- @storybook/addon-actions
+- @storybook/addon-backgrounds
+- @storybook/addon-link
+- @storybook/addons
+- @storybook/react
+- @testing-library/jest-dom
+- @testing-library/react
+- @testing-library/react-hooks
+- babel-loader
+- node-sass
+- prop-types
+- react-test-renderer
+
 ## Setup
 
 Install dependencies with `npm install`.
