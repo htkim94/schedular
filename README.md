@@ -3,9 +3,12 @@
 This is a react app which users can book, edit and cancel interviews. Data is received through scheduler-API server using PostgreSQL. Storybook is used to test components. Jest, Cypress are used for testing throughout the project.
 
 ## Screenshots
-!["Description"](URL)
-![""](URL)
-![""](URL)
+!["Main Page"](https://github.com/htkim94/schedular/blob/master/docs/scheduler_main_page.jpg)
+!["Page responsive to screen size"](https://github.com/htkim94/schedular/blob/master/docs/scheduler_responsive.jpg)
+!["Add / Edit interview component"](https://github.com/htkim94/schedular/blob/master/docs/scheduler_show_component.jpg)
+!["Validation feature for empty name"](https://github.com/htkim94/schedular/blob/master/docs/scheduler_validation_emptyName.jpg)
+!["Validation feature for empty interviewer"](https://github.com/htkim94/schedular/blob/master/docs/scheduler_validation_emptyInterviewer.jpg)
+!["Confirmation component when deleting an interview"](https://github.com/htkim94/schedular/blob/master/docs/scheduler_confirmation_component.jpg)
 
 ## Setup
 
